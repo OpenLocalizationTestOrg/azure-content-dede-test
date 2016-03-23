@@ -1,11 +1,39 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [articles\active-directory\active-directory-aadconnect-account-summary.md](https://github.com/OpenLocalizationTest/azuretest/blob/bfebe61979af68e9405312844cb63c9a12299ae0/articles/active-directory/active-directory-aadconnect-account-summary.md) | InSyncHandedBackSuccess | [Details](#53d37262ffab23b2220a333bfa532e771a168e4d1)
+ [articles\app-service-api\app-service-api-arm-existing-gateway-provision.md](https://github.com/OpenLocalizationTest/azuretest/blob/bfebe61979af68e9405312844cb63c9a12299ae0/articles/app-service-api/app-service-api-arm-existing-gateway-provision.md) | InSyncHandedBackSuccess | [Details](#e6b9aa893e6230542d1f6eb1f76c39e74face5083676)
 
 ## Item Details
+##### <a name='53d37262ffab23b2220a333bfa532e771a168e4d1'></a> Source: [articles\active-directory\active-directory-aadconnect-account-summary.md](https://github.com/OpenLocalizationTest/azuretest/blob/bfebe61979af68e9405312844cb63c9a12299ae0/articles/active-directory/active-directory-aadconnect-account-summary.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [articles\active-directory\active-directory-aadconnect-account-summary.md](https://github.com/OpenLocalizationTestOrg/azure-content-dede-test/blob/b96d3fdf41202902bd0c14d23054ce55b92f4c6e/articles/active-directory/active-directory-aadconnect-account-summary.md)
+* Handoff File: [active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/0dd93ed852211ee129d72d411eebd21661c2ae36/ol-handoff/OpenLocalizationTestOrg/azure-content-dede-test/master/high/active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.de-de.xlf)
+* Handoff Datetime: 2016-03-22 04:47:06
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handback/blob/5aa1e74688af9e03be5e2ea3d84c521aec78bada/ol-handback/OpenLocalizationTestOrg/azure-content-dede-test/master/high/active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.de-de.xlf)
+* Handback Datetime: 2016-03-23 02:01:35
+* [Back to Top](#report-top)
+
+##### <a name='e6b9aa893e6230542d1f6eb1f76c39e74face5083676'></a> Source: [articles\app-service-api\app-service-api-arm-existing-gateway-provision.md](https://github.com/OpenLocalizationTest/azuretest/blob/bfebe61979af68e9405312844cb63c9a12299ae0/articles/app-service-api/app-service-api-arm-existing-gateway-provision.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [articles\app-service-api\app-service-api-arm-existing-gateway-provision.md](https://github.com/OpenLocalizationTestOrg/azure-content-dede-test/blob/b96d3fdf41202902bd0c14d23054ce55b92f4c6e/articles/app-service-api/app-service-api-arm-existing-gateway-provision.md)
+* Handoff File: [app-service-api-arm-existing-gateway-provision.62ff6650cf1e7159583ccbe3fc0fa0a369cffdc5.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/0dd93ed852211ee129d72d411eebd21661c2ae36/ol-handoff/OpenLocalizationTestOrg/azure-content-dede-test/master/high/app-service-api-arm-existing-gateway-provision.62ff6650cf1e7159583ccbe3fc0fa0a369cffdc5.de-de.xlf)
+* Handoff Datetime: 2016-03-22 04:47:06
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [app-service-api-arm-existing-gateway-provision.62ff6650cf1e7159583ccbe3fc0fa0a369cffdc5.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handback/blob/5aa1e74688af9e03be5e2ea3d84c521aec78bada/ol-handback/OpenLocalizationTestOrg/azure-content-dede-test/master/high/app-service-api-arm-existing-gateway-provision.62ff6650cf1e7159583ccbe3fc0fa0a369cffdc5.de-de.xlf)
+* Handback Datetime: 2016-03-23 02:01:35
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
