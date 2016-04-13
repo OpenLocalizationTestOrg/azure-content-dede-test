@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/bfebe61979af68e9405312844cb63c9a12299ae0/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-aad-sso-preview.md) | InSyncHandedBackSuccess | [Details](#89b9d263d13b9935473aec2f0def6c809ea303394442)
 
 ## Item Details
-##### <a name='89b9d263d13b9935473aec2f0def6c809ea303394442'></a> Source: [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/bfebe61979af68e9405312844cb63c9a12299ae0/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-aad-sso-preview.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md](https://github.com/OpenLocalizationTestOrg/azure-content-dede-test/blob/c178b7cb65ea7656e0a6799211f88879e758b695/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-aad-sso-preview.md)
-* Handoff File: [app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/0dd93ed852211ee129d72d411eebd21661c2ae36/ol-handoff/OpenLocalizationTestOrg/azure-content-dede-test/master/test-priority-high/app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.de-de.xlf)
-* Handoff Datetime: 2016-03-22 04:47:06
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handback/blob/86fbe6f0b5779b6b62c8f8774f06896534ab980d/ol-handback/OpenLocalizationTestOrg/azure-content-dede-test/master/test-priority-high/app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.de-de.xlf)
-* Handback Datetime: 2016-04-13 05:59:26
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
