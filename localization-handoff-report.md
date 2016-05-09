@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [includes\app-service-api-gateway-config-auth.md](https://github.com/OpenLocalizationTest/azuretest/blob/435e56bf8425c3691e1c6f8c5dbb16e53997397d/includes/app-service-api-gateway-config-auth.md) | HandedOffSuccess | [Details](#cd0c2a4be3a47a75645c0e2c1f6ab17f4a9fc60116659)
+ [includes\app-service-api-gateway-config-auth.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf51b1bd32870c1d24578506115318de1306ab40/includes/app-service-api-gateway-config-auth.md) | HandedOffSuccess | [Details](#01b6d49fce07bc270cdbaee457d2a0f4c31a06fa16659)
 
 ## Item Details
-##### <a name='cd0c2a4be3a47a75645c0e2c1f6ab17f4a9fc60116659'></a> Source: [includes\app-service-api-gateway-config-auth.md](https://github.com/OpenLocalizationTest/azuretest/blob/435e56bf8425c3691e1c6f8c5dbb16e53997397d/includes/app-service-api-gateway-config-auth.md)
+##### <a name='01b6d49fce07bc270cdbaee457d2a0f4c31a06fa16659'></a> Source: [includes\app-service-api-gateway-config-auth.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf51b1bd32870c1d24578506115318de1306ab40/includes/app-service-api-gateway-config-auth.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [app-service-api-gateway-config-auth.9e6a101fc0bbe33791e064b7d38480b997ceb76a.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/c62f8c88c87142b784c2bd4b8aff42696ee79c06/ol-handoff/OpenLocalizationTestOrg/azure-content-dede-test/master/ht/app-service-api-gateway-config-auth.9e6a101fc0bbe33791e064b7d38480b997ceb76a.de-de.xlf)
-* Handoff Datetime: 2016-05-09 02:38:40
+* Handoff File: [app-service-api-gateway-config-auth.9e6a101fc0bbe33791e064b7d38480b997ceb76a.de-de.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/5cd73f49347f6734a6a80e8a7ee4baa8d05e90ea/ol-handoff/OpenLocalizationTestOrg/azure-content-dede-test/master/ht/app-service-api-gateway-config-auth.9e6a101fc0bbe33791e064b7d38480b997ceb76a.de-de.xlf)
+* Handoff Datetime: 2016-05-09 06:36:16
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
