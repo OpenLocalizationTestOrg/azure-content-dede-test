@@ -7,13 +7,15 @@
       "docset_name": "azuretest",
       "build_output_subfolder": "articles",
       "locale": "de-de",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "Reference": "Content"
-      }
+      },
+      "version": 0
     }
   ],
-  "skip_source_output_uploading": false
+  "continue_with_document_error": true,
+  "skip_source_output_uploading": false,
+  "need_generate_pdf_url_template": false
 }
